@@ -1,11 +1,11 @@
 #decompiled by PDM31
 import os, sys
-print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
+print '\x1b[1;32mMasukan ID: kagol dan Password: paijo untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281291977644&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+6285900377882&text=Assalamualaikum')
 
 
 def restart():
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'indoxploit' and user == 'Borot':
+if sandi == 'indoxploit' and user == 'kagol':
     print 'Anda Telah Login'
     sys.exit
 else:
